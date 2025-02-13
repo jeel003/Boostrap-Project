@@ -14,6 +14,9 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
         integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <!-- AOS CSS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
+
 </head>
 
 <body>
@@ -40,12 +43,6 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link active" aria-current="page" href="portfolio.html">PORTFOLIO</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="#">PRICING</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="#">BLOG</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link active" aria-current="page" href="contact.html">CONTACT</a>
@@ -92,7 +89,7 @@
     <div class="port">
         <div class="container">
             <div class="row">
-                <div class="col-md-12 text-center m-2">
+                <div class="col-md-12 text-center m-2" data-aos="fade-up" data-aos-duration="1500">
                     <h1>Portfolio</h1>
                     <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
                 </div>
@@ -100,16 +97,16 @@
         </div>
         <div class="container">
             <div class="row image">
-                <div class="col-md-4">
+                <div class="col-md-4" data-aos="fade-up" data-aos-duration="1500">
                     <img src="masonry-portfolio-1.jpg" alt="bottal image" class="img1">
                     <img src="masonry-portfolio-6.jpg" alt="" class="img2">
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4" data-aos="fade-up" data-aos-duration="1500">
                     <img src="masonry-portfolio-2.jpg" alt="" class="img3">
                     <img src="masonry-portfolio-5.jpg" alt="" class="img4">
                     <img src="masonry-portfolio-9.jpg" alt="" class="img5">
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4" data-aos="fade-up" data-aos-duration="1500">
                     <img src="masonry-portfolio-3.jpg" alt="" class="img6">
                     <img src="masonry-portfolio-4.jpg" alt="" class="img7">
                     <img src="masonry-portfolio-7 (1).jpg" alt="" class="img8">
@@ -216,6 +213,12 @@
         </div>
     </div>
     <!--Footer End-->
+    <!-- AOS JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+<script>
+  AOS.init();
+</script>
+
 </body>
 
 </html>
