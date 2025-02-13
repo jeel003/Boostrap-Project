@@ -1,0 +1,611 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.nav-item{
+    margin: 0px 12px 0px 12px;
+    font-size: 14px;
+}
+span{
+    color:greenyellow;
+}
+
+.navbar-brand{
+    margin: 0px 85px 0px 85px;
+}
+
+b{
+    font-size: 25px;
+}
+
+.navigation{
+    box-shadow: 0px 0px 5px black;
+    
+}
+
+.d-flex a{
+    color: black;
+}
+.nav-item a:hover{
+    color:greenyellow;
+}
+.navbar-brand b{
+    color: black;
+}
+.fonta{
+    color: silver;
+    font-size: 17px;
+    margin-right: 50px;
+
+}
+.fonta1:hover{
+    color: greenyellow;
+    cursor: pointer;
+
+}
+.fonta2:hover{
+    color: greenyellow;
+    cursor: pointer;
+}
+.fonta3:hover{
+    color: greenyellow;
+    cursor: pointer;
+}
+.fonta4:hover{
+    color: greenyellow;
+    cursor: pointer;
+}
+.nav-link:hover {
+    color: yellowgreen;
+    scale: 1.2; 
+}
+.pic1,.pic2,.pic3 img{
+    width: 110rem;
+    height: 665px;
+}
+.fa-solid{
+    border: 2px solid green;
+    color: green;
+    border-radius: 80%;
+    padding: 6px;
+    margin-right: 10px;
+    font-size: 12px;
+        
+}
+.head{
+    margin-top: 50px;
+}
+.side{
+    background-color:#F8F8F8;
+    width: 600px;
+    padding: 20px 200px 20px 50px;
+    margin-top: 80px; 
+    margin-bottom: 60px;
+    columns: #444444;
+     
+}
+
+.videob{
+    padding: 7px;
+    margin-right: 10px;
+    font-size: 15px;
+}
+.im img{
+    margin-top: 60px;
+    margin-left: 40px;
+}
+.glightbox{
+    color: black;
+}
+
+
+.icon i{
+    position: relative;
+    right: 70px;
+}
+.box1{
+    border: 2px solid white;
+    height: 360px;
+    width: 380px;
+    padding: 50px;
+    box-shadow: 0px 0px 5px 1px;
+    background-color: white;
+    border-radius: 5px;
+    
+}
+.box2{
+    border: 2px solid white;
+    height: 360px;
+    width: 380px;
+    padding: 50px;
+    box-shadow: 0px 0px 5px 1px;
+    background-color: white;
+    
+}
+.box3{
+    border: 2px solid whitesmoke;
+    height: 360px;
+    width: 380px;
+    padding: 50px;
+    box-shadow: 0px 0px 5px 1px;
+    background-color: white;
+    
+}
+.box4{
+    border: 2px solid whitesmoke;
+    height: 360px;
+    width: 380px;
+    padding: 50px;
+    box-shadow: 0px 0px 5px 1px;
+    background-color: white;
+}
+.box5{
+    border: 2px solid whitesmoke;
+    height: 360px;
+    width: 380px;
+    padding: 50px;
+    box-shadow: 0px 0px 5px 1px;
+    background-color: white;
+    
+}
+.box6{
+    border: 2px solid whitesmoke;
+    height: 360px;
+    width: 380px;
+    padding: 50px;
+    background-color: white;
+    box-shadow: 0px 0px 5px 1px;
+}
+
+.main{
+    margin-bottom: 30px;
+}
+.box{
+    padding: 40px 40px 40px 40px;
+}
+.img1{
+    height: 400px;
+    margin: 0px 0px 20px 0px;
+}
+.img2{
+    height: 590px;
+    margin: 0px 10px 0px 0px;
+}
+.img3{
+    height: 265px;
+    margin: 0px 0px 0px 18px;
+}
+.img4{
+    height: 590px;
+    margin: 17px 0px 0px 18px;
+}
+.img5{
+    height: 260px;
+    max-width: 400px;
+    margin: 20px 0px 0px 18px ;  
+}
+.img6{
+     height: 250px;
+     width: 390px;
+     margin: 0px 0px 0px 35px;
+}
+.img7{
+    height: 260px;
+    width: 390px;
+    margin: 20px 0px 0px 35px;
+}
+.img8{
+    height: 260px;
+    width: 390px;
+    margin: 20px 0px 0px 35px;
+}
+.img9{
+    height: 270px;
+    width: 390px;
+    margin: 20px 0px 0px 35px;
+}
+.image{
+     padding: 0px 50px 0px 50px;
+    margin: 0px 0px 80px 0px; 
+}
+.logo1{
+    border: 1px solid #E3E3E3;
+    height: 150px;
+    max-width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo1 img{
+height: 80px;
+padding: 15px; 
+}
+
+.logoimg{
+    margin: 0px 0px 50px 0px;
+}
+
+.logo1:hover img{
+    scale: 1.1;
+}
+.mainf{
+    background-color: #060606;
+    color: white;
+}
+.footer1{
+    margin: 50px 0px 10px 20px;
+}
+.f1{
+    margin: 30px 0px 10px 20px;
+    font-size: 15px;
+}
+.fmark{
+    margin: 30px 0px 50px 20px ;
+}
+.mark1{
+    margin-right: 10px;
+    border: 1px solid white;
+    border-radius: 50%;
+    font-size: 18px;
+    padding: 4px 8px 4px 8px; 
+}
+.mark2{
+    margin-right: 10px;
+    border: 1px solid white;
+    border-radius: 50%;
+    font-size: 18px;
+    padding: 4px 8px 4px 8px; 
+}
+.mark3{
+    margin-right: 10px;
+    border: 1px solid white;
+    border-radius: 50%;
+    font-size: 18px;
+    padding: 4px 8px 4px 8px;
+}
+.mark4{
+    margin-right: 10px;
+    border: 1px solid white;
+    border-radius: 50%;
+    font-size: 18px;
+    padding: 4px 8px 4px 8px;   
+}
+.mark1:hover{
+    color: green;
+    border-color: green;
+}
+.mark2:hover{
+    color: green;
+    border-color: green;
+}
+.mark3:hover{
+    color: green;
+    border-color: green;
+}
+.mark4:hover{
+    color: green;
+    border-color: green;
+}
+.ft{
+    margin: 0px 0px 0px 70px;
+}
+.link{
+    margin: 60px 0px 0px 0px;
+}
+.l1 a{
+    color: white;
+    text-decoration: none;
+    line-height: 30px;
+    font-size: 14px;
+}
+.ft1{
+    margin: 0px 0px 0px 50px;
+}
+.home:hover{
+    color: #1BB722;
+}
+.about:hover{
+    color: #1BB722;
+}
+.ser:hover{
+    color: #1BB722;
+}
+.ter:hover{
+    color: #1BB722;
+}
+.pri:hover{
+    color: #1BB722;
+}
+.l2 a{
+    color: white;
+    text-decoration: none;
+    line-height: 30px;
+    font-size: 14px;
+}
+.link2{
+    margin: 60px 10px 0px 0px;
+}
+.footer2{
+    margin-right: 70px;
+    margin-top: 60px    ;
+}
+.label input{
+    background-color: #252525;
+     /* outline: gray;   */
+     border-right: 0px;
+
+     border-top:1px solid gray ;
+     border-bottom:1px solid gray ;
+     border-left: 1px solid gray;
+     height: 40px;
+     width: 280px;
+}
+.button1{
+     background-color: #1D9E32; 
+     text-align: center;
+     height: 40px;
+     width: 110px;  
+     border: 0px;
+}
+.search{
+    display: flex;
+    justify-content: start;
+    padding: 10px;
+}
+.label:hover input{
+    outline: #1D9E32;
+    border: 1px solid green; 
+}
+.copy{
+    background-color: #060606;
+    color: white;
+    font-size: 15px;
+    border-top: 1px solid gray;
+    opacity: 0.7;
+    width: 200px;
+}
+.copy1{
+    word-spacing: 1px;
+    /* margin: 10px 0px 0px 0px; */
+    line-height: 0px;
+}
+.fa-regular{
+    font-size: 10px;
+}
+.ftr{
+    background-color: #060606;
+}
+.ab{
+    margin: 60px 0px 0px 0px;
+    background-color: #1BBC36;
+    padding: 20px;  
+    align-items: center;
+}
+.abcd{
+    color: white;
+}
+
+.alin a{
+  text-decoration: none;
+  color: white;
+}
+
+.alin li{
+   list-style: none;
+  }
+
+.ab1{
+    margin-bottom: 20px;
+}
+.card-body{
+    color: gray;
+}
+
+/* card start*/
+.jj {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    padding: 5px 0;
+    position: absolute;
+    width: 100%;
+    top: 63%; /* Adjusts position between image and card-body */
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.card:hover .jj {
+    opacity: 1;
+    transform: translate(-50%, 0);
+}
+
+.jj div {
+    width: 40px;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    font-size: 15px;
+    transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out;
+}
+
+.jj div:hover {
+    background-color:#1BB722;
+
+   
+} 
+.color{
+    background-color: #F7F7F7;
+    margin: 0px 0px 60px 0px;
+    height: 600px;
+}
+/* card end */
+
+.skill{
+    margin: 0px 0px 20px 0px;
+}
+
+.pro1{
+    margin: 0px 0px 10px 0px;
+}
+.pro2{
+    margin: 0px 0px 10px 0px;
+}
+.pro3{
+    margin: 0px 0px 10px 0px;
+}
+.wor{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   font-size: 13px;
+}
+.skill1{
+    margin: 0px 0px 100px 0px;
+}
+.boxm{
+    margin: 0px 0px 60px 0px;
+    background-color: #F2F2F2;
+}
+.features{
+    margin: 0px 0px 50px 0px;
+}
+.bor{
+    border: 1px solid gray;
+    font-weight: 600;
+    height: 70px;
+   
+}
+.bor1{
+    border: 1px solid grey;
+    font-weight: 600;
+    height: 70px;
+}
+.bor2{
+    border: 1px solid gray;
+    font-weight: 600;
+    height: 70px;
+}
+.fa-regular{
+    font-size: 20px;
+    padding: 25px 5px 0px 10px ;
+    color: #FFBB2C;
+}
+.bo1{
+    margin: 0px 0px 20px 0px;
+}
+.bo2{
+    margin: 0px 0px 20px 0px;
+}
+.bo3{
+    margin: 0px 0px 60px 0px;
+}
+.bor:hover{
+    border: 1px solid #1BBD36;
+    color: #1BBD36;
+}
+.bor1:hover{
+    border: 1px solid #1BBD36;
+    color: #1BBD36;
+}
+.bor2:hover{
+    border: 1px solid #1BBD36;
+    color: #1BBD36;
+}
+.port{
+    margin: 30px 0px 40px 0px;
+}
+.copyf{
+    color: white;
+    font-size: 13px;
+}
+.map > iframe{
+    width: 100%;
+    margin: 0px 0px 50px 0px;
+}
+.location{
+    border: none;
+    font-size: 20px;
+    color: #1BBD36;
+}
+.loc1 p{
+   padding: 0px 0px 0px 30px;
+   margin: -10px 0px 0px 0px;
+   font-weight: 400;
+}
+.info{
+    border-bottom: 1px solid gray; 
+   margin: 18px;
+}
+
+.loc2 p{
+    padding: 0px 0px 0px 30px;
+    margin: -10px 0px 0px 0px;
+    font-weight: 400;
+ }
+ .loc3 p{
+    padding: 0px 0px 0px 30px;
+    margin: -10px 0px 0px 0px; 
+    font-weight: 400;
+ }
+
+.loc{
+    margin: 0px 0px 50px 0px;
+}
+
+.locmain{
+    border: 1px solid white;
+    height: 480px;
+    width: 400px;
+    margin-bottom: 50px;
+    padding: 40px 40px 40px 40px;
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);   
+}
+.name input{
+    width: 430px;
+    height: 50px;
+    padding: 10px;
+}
+.a1{
+    outline: #1BB722;
+}
+.a1:hover{
+    outline: #1BB722;
+}
+
+.name1 input{
+    width: 430px;
+    height: 50px;
+    padding: 10px;
+    margin: 0px 0px 0px 160px;
+   
+}
+.name2 input{
+    width: 880px;
+    height:50px;
+    padding: 10px;    
+}
+
+.name3 textarea{
+    height: 310px;
+    width: 880px;
+   padding: 10px;
+   margin-top: 20px;
+}
+.but1{
+    border: none;
+    height: 50px;
+    width: 190px;
+    color: white;
+    background-color: #17A22E;
+    border-radius: 4px;
+    margin-bottom: 50px;
+}
+
